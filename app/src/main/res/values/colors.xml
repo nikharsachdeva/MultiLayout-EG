@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5f8171</color>
+    <color name="colorPrimaryDark">#4b6b5c</color>
+    <color name="colorAccent">#feed00</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="colorOrangish">#F59D79</color>
+
+    <color name="colorWhiteTransparent">#80ffffff</color>
+    <color name="colorSignInBg">#fafbfd</color>
+    <color name="colorLightWhite">#bbbbbb</color>
+
+    <color name="gradgreenColor1">#5d7f6f</color>
+    <color name="gradgreenColor2">#5f8171</color>
+    <color name="colorTabBg">#F9FBFC</color>
+
+    <color name="colorTodayText">#4D4CAC</color>
+    <color name="colorTodayBg">#EDEDF7</color>
+
+    <color name="colorCompletedText">#44C4A1</color>
+    <color name="colorCompletedBg">#ECF9F5</color>
+
+    <color name="colorUpcomingText">#FEB12D</color>
+    <color name="colorUpcomingBg">#FFF8F0</color>
+
+    <color name="colorPendingText">#FF808B</color>
+
+    <color name="colorPendingBg">#FFF2F3</color>
+
+    <color name="colorLightHeading">#60313541</color>
+    <color name="colordarkHeading">#313541</color>
+
+    <color name="cyanGreen">#44C4A1</color>
+    <color name="lightGreyText">#BBBBBB</color>
+
+    <color name="colorPink">#FFF2F3</color>
+    <color name="colorGreyBackground">#F7F9FA</color>
+
+</resources>
