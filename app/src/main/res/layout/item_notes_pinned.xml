@@ -23,8 +23,8 @@
 
                 <ImageView
                     android:id="@+id/notes_pin_image_row"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="12dp"
+                    android:layout_height="12dp"
                     android:src="@drawable/pin" />
 
                 <TextView
